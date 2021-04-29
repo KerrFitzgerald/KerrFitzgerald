@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @KerrFitzgerald
+
 - 👀 I’m interested in deep learning systems for medical image analysis.
-- 🌱 I’m currently learning about Transformer Networks.
-- 🌱 I have experience with Python, PyTorch, FORTRAN. 
+
+- 🌱 I’m currently researching/learning about machine learning, image analysis, transformer networks.
+
+- 🌱 I have experience with:
+           - Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda)
+           - PyTorch
+           - C++ 
+           - FORTRAN
+
+- 🌱 Projects I have worked on:
+           - Image analysis using deep learning
+           - Atomistic modelling
+           - Nuclear fuel performance modelling
+
 - 💞️ I’m looking to collaborate on: Kaggle projects, machine learning ptojects and image analysis projects.
+
 - 📫 How to reach me: kerrfitzgerald5@gmail.com
 
 <!---
