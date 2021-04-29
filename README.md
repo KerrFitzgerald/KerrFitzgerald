@@ -10,10 +10,10 @@
            - 🌱 C++ <br />
            - 🌱 FORTRAN <br />
 
-- 🌱 Projects I have worked on:
-           - 🌱 Image analysis using deep learning
-           - 🌱 Atomistic modelling
-           - 🌱 Nuclear fuel performance modelling
+- 🌱 Projects I have worked on: <br />
+           - 🌱 Image analysis using deep learning <br />
+           - 🌱 Atomistic modelling <br />
+           - 🌱 Nuclear fuel performance modelling <br />
 
 - 💞️ I’m looking to collaborate on: Kaggle projects, machine learning ptojects and image analysis projects.
 
