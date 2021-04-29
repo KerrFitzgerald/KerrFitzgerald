@@ -18,7 +18,7 @@
            - 🌱 Atomistic modelling <br />
            - 🌱 Nuclear fuel performance modelling <br />
 
-- 💞️ I’m looking to collaborate on: Kaggle projects, machine learning ptojects and image analysis projects.
+- 💞️ I’m looking to collaborate on: Kaggle projects, machine learning projects and image analysis projects.
 
 - 📫 How to reach me: kerrfitzgerald5@gmail.com
 
