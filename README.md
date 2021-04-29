@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in deep learning systems for medical image analysis.
 
-- 🌱 I’m currently researching/learning about: 
+- 🌱 I’m currently researching/learning about: <br />
            - 🌱 Machine learning<br />
            - 🌱 Image analysis <br />
            - 🌱 Transformer networks <br />
