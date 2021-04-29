@@ -5,15 +5,15 @@
 - 🌱 I’m currently researching/learning about machine learning, image analysis, transformer networks.
 
 - 🌱 I have experience with:
-           - Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda)
-           - PyTorch
-           - C++ 
-           - FORTRAN
+           - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda)
+           - 🌱 PyTorch
+           - 🌱 C++ 
+           - 🌱 FORTRAN
 
 - 🌱 Projects I have worked on:
-           - Image analysis using deep learning
-           - Atomistic modelling
-           - Nuclear fuel performance modelling
+           - 🌱 Image analysis using deep learning
+           - 🌱 Atomistic modelling
+           - 🌱 Nuclear fuel performance modelling
 
 - 💞️ I’m looking to collaborate on: Kaggle projects, machine learning ptojects and image analysis projects.
 
