@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently researching/learning about machine learning, image analysis, transformer networks.
 
-- 🌱 I have experience with: /n
-           - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda)
-           - 🌱 PyTorch
-           - 🌱 C++ 
-           - 🌱 FORTRAN
+- 🌱 I have experience with: <br />
+           - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
+           - 🌱 PyTorch<br />
+           - 🌱 C++ <br />
+           - 🌱 FORTRAN <br />
 
 - 🌱 Projects I have worked on:
            - 🌱 Image analysis using deep learning
