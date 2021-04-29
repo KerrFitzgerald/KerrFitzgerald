@@ -2,7 +2,10 @@
 
 - 👀 I’m interested in deep learning systems for medical image analysis.
 
-- 🌱 I’m currently researching/learning about machine learning, image analysis, transformer networks.
+- 🌱 I’m currently researching/learning about: 
+           - 🌱 Machine learning<br />
+           - 🌱 Image analysis <br />
+           - 🌱 Transformer networks <br />
 
 - 🌱 I have experience with: <br />
            - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
