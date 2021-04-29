@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently researching/learning about machine learning, image analysis, transformer networks.
 
-- 🌱 I have experience with:
+- 🌱 I have experience with:\n
            - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda)
            - 🌱 PyTorch
            - 🌱 C++ 
