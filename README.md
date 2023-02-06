@@ -1,4 +1,6 @@
-Hi, I’m @KerrFitzgerald
+Hello,
+
+My name is Kerr Fitzgerald
 
 I am currently a PhD student researching and developing artificial intelligence systems for medical image analysis. I have extensive knowledge on the mathematics and theory underpinning many data science/machine learning algorithms and excellent Python programming skills. 
 
