@@ -1,22 +1,16 @@
-- 👋 Hi, I’m @KerrFitzgerald
+Hi, I’m @KerrFitzgerald
 
-- 👀 I’m interested in deep learning systems for medical image analysis.
+I am currently a PhD student researching and developing artificial intelligence systems for medical image analysis. I have extensive knowledge on the mathematics and theory underpinning many data science/machine learning algorithms and excellent Python programming skills. 
 
-- 🌱 I’m currently researching/learning about: <br />
-           - 🌱 Machine learning<br />
-           - 🌱 Image analysis <br />
-           - 🌱 Transformer networks <br />
+I am passionate about using data science and machine learning to develop and implement systems to improve people’s lives. I love learning new skills/programming languages and I am enthusiastic about encouraging more people to pursue careers in science, technology, engineering and mathematics (STEM).
 
-- 🌱 I have experience with: <br />
-           - 🌱 Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
-           - 🌱 PyTorch<br />
-           - 🌱 C++ <br />
-           - 🌱 FORTRAN <br />
+Prior to starting my PhD, I spent 6 years working as a computational physicist in the UK nuclear industry. I worked as part of a multidisciplinary team to successfully deliver different customer projects and government funded research projects.
 
-- 🌱 Projects I have worked on: <br />
-           - 🌱 Image analysis using deep learning <br />
-           - 🌱 Atomistic modelling <br />
-           - 🌱 Nuclear fuel performance modelling <br />
+I have experience with: <br />
+           -  Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
+           -  PyTorch<br />
+           -  C++ <br />
+           -  FORTRAN <br />
 
 - 💞️ I’m looking to collaborate on: Kaggle projects, machine learning projects and image analysis projects.
 
