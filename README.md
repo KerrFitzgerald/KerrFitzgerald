@@ -10,9 +10,9 @@ Prior to starting my PhD, I spent 6 years working as a computational physicist i
 
 I have experience with: <br />
            -  Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
-           -  PyTorch<br (Convolutional Neural Networks, Vision Transformers, Image Classification, Image Segmentation)/>
+           -  PyTorch (Convolutional Neural Networks, Vision Transformers, Image Classification, Image Segmentation) <br />
+           -  FORTRAN (Nuclear Fuel Performance Modelling) <br />
            -  C++ <br />
-           -  FORTRAN <br />
 
 - 💞️ I’m looking to collaborate on: Kaggle projects, machine learning projects and image analysis projects.
 
