@@ -10,7 +10,7 @@ Prior to starting my PhD, I spent 6 years working as a computational physicist i
 
 I have experience with: <br />
            -  Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
-           -  PyTorch<br />
+           -  PyTorch<br (Convolutional Neural Networks, Vision Transformers, Image Classification, Image Segmentation)/>
            -  C++ <br />
            -  FORTRAN <br />
 
