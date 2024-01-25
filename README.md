@@ -11,7 +11,7 @@ I am passionate about using Python, data science and machine learning to impleme
 I have experience with: <br />
            -  Python (NumPy, Pandas, Matplotlib, Scikit-learn, Jupyter Notebooks, Anaconda) <br />
            -  PyTorch (Convolutional Neural Networks, Vision Transformers, Image Classification, Image Segmentation) <br />
-           -  QuantConnect (Algorithmic Trading)
+           -  QuantConnect (Algorithmic Trading) <br />
            -  FORTRAN (Nuclear Fuel Performance Modelling) <br />
            -  C++ <br />
 
